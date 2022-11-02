@@ -12,4 +12,4 @@ model-view-adapter architecture
 
 no automated tests implemented
 
-[download apk](<Your Download Link here>)
+[apk file](https://github.com/hasanselimyagci/sixt/raw/master/app-debug.apk)
