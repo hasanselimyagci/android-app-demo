@@ -12,4 +12,4 @@ model-view-adapter architecture
 
 no automated tests implemented
 
-last version: app-debug.apk
+[download apk](<Your Download Link here>)
