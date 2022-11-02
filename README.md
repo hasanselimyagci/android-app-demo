@@ -11,3 +11,5 @@ gson (parsing json file), glide (image loading)
 model-view-adapter architecture
 
 no automated tests implemented
+
+last version: app-debug.apk
