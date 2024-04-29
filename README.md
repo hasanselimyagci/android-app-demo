@@ -1,4 +1,4 @@
-# sixt
+# car share app demo
 
 a small android app that displays a group
 of cars on a map and a list
