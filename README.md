@@ -1,4 +1,4 @@
-# car share app demo
+# car share app
 
 a small android app that displays a group
 of cars on a map and a list
